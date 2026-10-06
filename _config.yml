@@ -1,0 +1,27 @@
+title: "Contenedores 101"
+description: "Construye, ejecuta y despliega en AWS — Tutorial práctico paso a paso"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+# Plugins para GitHub Pages
+plugins:
+  - jekyll-remote-theme
+
+# Pie de página
+aux_links:
+  "GitHub":
+    - "https://github.com/juanhcode/containers-101-tutorial"
+
+footer_content: "Contenedores 101 · Juan Manuel Hoyos C. & Pablo Nicolás Marín G. · Universidad ICESI"
+
+# Habilitar copiar código
+enable_copy_code_button: true
+
+# Navegación
+nav_enabled: true
+
+# Buscar
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
